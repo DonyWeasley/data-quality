@@ -1,4 +1,4 @@
-#✨ Accuracy ✨
+# 🌟 **Accuracy** 🌟
 
 ### **Definition:**  
 The data should reflect actual, real-world scenarios; the measure of accuracy can be confirmed with a verifiable source.
